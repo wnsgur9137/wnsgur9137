@@ -6,17 +6,22 @@
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wnsgur9137)
 
+<br>
+<hr>
 
 개발 환경:
 
 * Program
 
-Visual Studio Code
-Typora
-Eclipse
-PyCharm CE
-Xcode
-OracleDB
+Visual Studio Code  
+Typora  
+Eclipse  
+PyCharm CE  
+Xcode  
+OracleDB  
+
+<br>
+
 * MAC
 
 MacBook Pro (16-inch, 2019)
@@ -25,7 +30,12 @@ GPU : AMD Radeon Pro 5500M 8GB
 RAM : 16GB 2667MHz DDR4
 * Desktop
 
+<br>
+
 Window 10 pro
 CPU : AMD Ryzen7 3700x
 GPU : RTX 2060 6GB
 RAM : 32GB 3200MHz
+
+<br>
+<hr>
