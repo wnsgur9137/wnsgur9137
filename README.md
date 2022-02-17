@@ -8,10 +8,11 @@
 
 <br>
 <hr>
+<br>
 
-개발 환경:
+개발 환경:  
 
-* Program
+* Program  
 
 Visual Studio Code  
 Typora  
@@ -22,20 +23,21 @@ OracleDB
 
 <br>
 
-* MAC
+* MAC  
 
-MacBook Pro (16-inch, 2019)
-CPU : i9-9880h 2.3GHz 8core
-GPU : AMD Radeon Pro 5500M 8GB
-RAM : 16GB 2667MHz DDR4
-* Desktop
+MacBook Pro (16-inch, 2019)  
+CPU : i9-9880h 2.3GHz 8core  
+GPU : AMD Radeon Pro 5500M 8GB  
+RAM : 16GB 2667MHz DDR4  
 
 <br>
 
-Window 10 pro
-CPU : AMD Ryzen7 3700x
-GPU : RTX 2060 6GB
-RAM : 32GB 3200MHz
+* Desktop  
+
+Window 10 pro  
+CPU : AMD Ryzen7 3700x  
+GPU : RTX 2060 6GB  
+RAM : 32GB 3200MHz  
 
 <br>
 <hr>
