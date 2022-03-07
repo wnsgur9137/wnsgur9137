@@ -36,7 +36,7 @@ RAM : 16GB 2667MHz DDR4
 
 Window 10 pro  
 CPU : AMD Ryzen7 3700x  
-GPU : RTX 2060 6GB  
+GPU : RTX 3060ti 8GB  
 RAM : 32GB 3200MHz  
 
 <br>
