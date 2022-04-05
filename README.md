@@ -4,7 +4,9 @@
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgur9137)](https://solved.ac/wnsgur9137)
 
+<!--
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wnsgur9137)
+-->
 
 <br>
 <hr>
