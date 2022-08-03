@@ -1,4 +1,4 @@
-<p class="title"> JunHyeok 🐈‍⬛ <p>
+ <p style="font-size: 30px;" align="center">JunHyeok 🐈‍⬛ <p> 
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github+Hits&edge_flat=false"/></a>
@@ -14,7 +14,7 @@
 <hr>
 <br>
 
-<table>
+<table style = "table-layout: auto; width: 100%; table-layout: fixed;" >
     <tr>
         <colgroup>
             <col width="50%"/>
@@ -22,8 +22,8 @@
         </colgroup>
         <thead>
             <tr>
-                <td><p class="title"> 🛠 Back Tech Stack 🛠 </p></td>
-                <td><p class="title"> 🛠 DataBase Tech Stack 🛠 </p></td>
+                <td><p style="font-size: 30px;" align="center"> 🛠 Back Tech Stack 🛠 </p></td>
+                <td><p style="font-size: 30px;" align="center"> 🛠 DataBase Tech Stack 🛠 </p></td>
             </tr>
         </thead>
         <tbody>
@@ -54,15 +54,19 @@
                 </td>
         </tbody>
     </tr>
-    <tr>
+</table>
+<br>
+<br>
+
+<table style = "table-layout: auto; width: 100%; table-layout: fixed;" >
     <tr>
         <colgroup>
             <col width="50%"/>
             <col width="50%"/>
         </colgroup>
         <thead>
-            <td><p class="title"> 🛠 Front Tech Stack 🛠 </p></td>
-            <td><p class="title"> 🛠 Tools 🛠 </p></td>
+            <td><p style="font-size: 30px;" align="center"> 🛠 Front Tech Stack 🛠 </p></td>
+            <td><p style="font-size: 30px;" align="center"> 🛠 Tools 🛠 </p></td>
         </thead>
         <tbody>
             <td>
@@ -93,9 +97,9 @@
 <hr>
 <br>
 
-<p class="title"> 
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> GitHub Stats 
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> 
+<p style="font-size: 30px;" align="center"> 
+    <img width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> GitHub Stats 
+    <img width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> 
 </p>
 
 <p align="center">
@@ -141,18 +145,3 @@ RAM : 32GB 3200MHz
 <hr>
 
 -->
-
-<style>
-    .title {
-        text-align: Center;
-        font-size: 30px;
-    }
-    img.icon {
-        width: 32px;
-        height: 32px;
-    }
-    table {
-        border-collapse: separate;
-	    border-spacing: 0 20px;
-    }
-</style>
