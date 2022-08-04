@@ -15,8 +15,6 @@
 <br>
 <br>
 
-<h1 align="center"> 💪 Skill
-
 <h2 align="center"> 💻 Back Tech Stack 💻 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
