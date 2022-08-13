@@ -74,6 +74,8 @@
 ![wnsgur9137's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur9137&show_icons=&theme=dark)
 
 </td>
+</tr>
+<tr>
 <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
