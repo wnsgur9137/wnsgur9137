@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/jun._hyeok"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jun_study_cloud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:wnsgur9137@icloud.com"><img src="https://img.shields.io/badge/Email-3693F3?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
