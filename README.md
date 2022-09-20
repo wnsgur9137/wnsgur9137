@@ -2,14 +2,20 @@
 
  <h1 align="center"> JunHyeok 🐈‍⬛ </h1>
 
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
+<br>
+
+<p>
+	2021 컴퓨터정보학회 동계 학술대회 - 논문 우수상<br>
+	2022 컴퓨터정보학화 하계 학술대회 - 참가<br>
+	2022 제5회 KB국민은행 소프트웨어 경진대회 - 참가<br>
+	2022 제2회 경기도 온라인 메이커 경진대회 - 참가<br>
 </p>
 
 <p align="center">
 <a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/jun_study_cloud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:wnsgur9137@icloud.com"><img src="https://img.shields.io/badge/Email-3693F3?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
 </p>
 
 <br>
@@ -86,7 +92,7 @@
 </tr>
 </table>
 
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td colspan="2" style="text-align: center;">
 
@@ -94,7 +100,7 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <!--
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wnsgur9137)
