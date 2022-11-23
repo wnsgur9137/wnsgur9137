@@ -21,29 +21,34 @@
 <br>
 <br>
 
-<h2 align="center"> 💻 Back Tech Stack 💻 </h1>
+<h2 align="center"> 💻 Tech Stack 💻 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->
 </p>
 
 <br>
 
-<h2 align="center"> 💾 DataBase Tech Stack 💾 </h1>
+<h2 align="center"> 💾 DataBase & Back Tech Stack 💾 </h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=microsoftAzure&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=microsoftAzure&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
 
 
@@ -52,9 +57,9 @@
 <h2 align="center"> 🛠 Tools 🛠 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-DA1F26?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualStudioCode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualStudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm CE-2C2255?style=flat-square&logo=PyCharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
     <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
