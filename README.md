@@ -87,6 +87,8 @@
 </td>
 </tr>
 </table> 
+
+<!--
 <table align="center">
 <tr>
 <td>
@@ -96,6 +98,7 @@
 </td>
 </tr>
 </table>
+-->
 
 <!-- <table align="center">
 <tr>
