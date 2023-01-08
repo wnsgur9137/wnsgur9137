@@ -26,8 +26,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SwiftUI-0052CC?style=flat-square&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Combine-#0052CC?style=flat-square&logo=swift&logoColor=white"/>
+	<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Combine-0052CC?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
