@@ -13,6 +13,7 @@
 
 <p align="center">
 <a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://wnsgur9137.notion.site/IOS-a307fbbee522498f875188a3c160c135"><img src="https://img.shields.io/badge/Portfolio-181A1D?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://instagram.com/jun_study_cloud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:wnsgur9137@icloud.com"><img src="https://img.shields.io/badge/Email-3693F3?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
@@ -24,7 +25,9 @@
 <h2 align="center"> 💻 Tech Stack 💻 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SwiftUI-0052CC?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Combine-#0052CC?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
