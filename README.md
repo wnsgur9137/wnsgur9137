@@ -19,6 +19,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
 </p>
 
+<!--
 <br>
 <br>
 
@@ -29,7 +30,7 @@
     <a herf="https://github.com/wnsgur9137/AdapterPattern"><h2> AdapterPattern.git </h2></a><br>
     <a href="https://github.com/wnsgur9137/InAppPurchaseMock"><h2> InAppPurchaseMock.git </h2></a><br>
 </p>
-
+-->
 <br>
 <br>
 
