@@ -1,6 +1,6 @@
  <!-- <p style="font-size: 30px;" align="center">JunHyeok 🐈‍⬛ <p>  -->
 
- <h1 align="center"> JunHyeok 🐶‍⬛ </h1>
+ <h1 align="center"> JunHyeok 🐶‍ </h1>
 
 <br>
 
@@ -12,29 +12,29 @@
 </p>
 
 <p align="center">
-<a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a>
+<!-- <a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a> -->
+<a href="https://medium.com/@cbaddaafcbbabb"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://wnsgur9137.notion.site/IOS-a307fbbee522498f875188a3c160c135"><img src="https://img.shields.io/badge/Portfolio-181A1D?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://instagram.com/jun_study_cloud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:wnsgur9137@icloud.com"><img src="https://img.shields.io/badge/Email-3693F3?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
 </p>
 
-<!--
+
 <br>
 <br>
 
-<h1 align="center"> 📝 Mock 📝 </h1>
+<h1 align="center"> 📝 Study 📝 </h1>
 <p align="center">
     <a href="https://github.com/wnsgur9137/CryptographyMock"><h2> CryptographyMock.git </h2></a><br>
     <a herf="https://github.com/wnsgur9137/CoreDataMock"><h2> CoreDataMock.git </h2></a><br>
     <a herf="https://github.com/wnsgur9137/AdapterPattern"><h2> AdapterPattern.git </h2></a><br>
     <a href="https://github.com/wnsgur9137/InAppPurchaseMock"><h2> InAppPurchaseMock.git </h2></a><br>
 </p>
--->
+
 <br>
 <br>
 
-<h2 align="center"> 💻 Tech Stack 💻 </h1>
+<h1 align="center"> 💻 Tech Stack 💻 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SwiftUI-0052CC?style=flat-square&logo=swift&logoColor=white"/>
@@ -69,7 +69,7 @@
 </table> 
 
 
-<!--
+
 <table align="center">
 <tr>
 <td>
@@ -79,7 +79,7 @@
 </td>
 </tr>
 </table>
--->
+
 
 <!-- <table align="center">
 <tr>
