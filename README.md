@@ -24,17 +24,18 @@
 <br>
 
 <h1 align="center"> 📝 Study 📝 </h1>
-<p align="center">
-    <a href="https://github.com/wnsgur9137/CryptographyMock">CryptographyMock.git</a><br>
-    <a href="https://github.com/wnsgur9137/CoreDataMock">CoreDataMock.git</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">AdapterPattern.blog</a><br>
-    <a href="https://github.com/wnsgur9137/AdapterPattern">AdapterPattern.git</a><br>
-    <a href="https://github.com/wnsgur9137/InAppPurchaseMock">InAppPurchaseMock.git</a><br>
+<!-- <p align="center"> -->
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">AdapterPattern.blog</font></a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-coredata-7b2ba1f7b836">CoreData.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-generic-제네릭-a333175bae2a">Generic.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire.blog</a><br>
-</p>
+<!-- </p> -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CryptographyMock)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CoreDataMock)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=AdapterPattern)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=InAppPurchaseMock)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <br>
 <br>
@@ -79,7 +80,8 @@
 <tr>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? username=wnsgur9137&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=pie&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
