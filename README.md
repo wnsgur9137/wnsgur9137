@@ -25,10 +25,11 @@
 
 <h1 align="center"> 📝 Study 📝 </h1>
 <p align="center">
-    <a href="https://github.com/wnsgur9137/CryptographyMock"><h2> CryptographyMock.git </h2></a><br>
-    <a herf="https://github.com/wnsgur9137/CoreDataMock"><h2> CoreDataMock.git </h2></a><br>
-    <a herf="https://github.com/wnsgur9137/AdapterPattern"><h2> AdapterPattern.git </h2></a><br>
-    <a href="https://github.com/wnsgur9137/InAppPurchaseMock"><h2> InAppPurchaseMock.git </h2></a><br>
+    <a href="https://github.com/wnsgur9137/CryptographyMock">CryptographyMock.git</a><br>
+    <a href="https://github.com/wnsgur9137/CoreDataMock">CoreDataMock.git</a><br>
+    <a href="https://github.com/wnsgur9137/AdapterPattern">AdapterPattern.git</a><br>
+    <a href="https://github.com/wnsgur9137/InAppPurchaseMock">InAppPurchaseMock.git</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString.blog</a><br>
 </p>
 
 <br>
