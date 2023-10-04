@@ -35,6 +35,7 @@
 <hr>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=iOS_TabBarBase)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CICD_FastLaneBase)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CryptographyMock)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CoreDataMock)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=AdapterPattern)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -84,7 +85,7 @@
 <td>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? username=wnsgur9137&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=pie&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=pie&hide=jupyternotebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
