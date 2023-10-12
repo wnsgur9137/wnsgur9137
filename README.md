@@ -6,9 +6,10 @@
 
 <p>
 	2021 컴퓨터정보학회 동계 학술대회 - 논문 우수상<br>
-	2022 컴퓨터정보학화 하계 학술대회 - 참가<br>
+	2022 컴퓨터정보학회 하계 학술대회 - 참가<br>
 	2022 제5회 KB국민은행 소프트웨어 경진대회 - 참가<br>
 	2022 제2회 경기도 온라인 메이커 경진대회 - 최우수상(중소기업청장상-용인시산업진흥원)<br>
+    2023 컴퓨터정보학회 하계 학술대회 - 논문 우수상<br>
 </p>
 
 <p align="center">
@@ -25,26 +26,30 @@
 
 <h1 align="center"> 📝 Study 📝 </h1>
 <!-- <p align="center"> -->
+    <h3>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">AdapterPattern.blog</font></a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-coredata-7b2ba1f7b836">CoreData.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-generic-제네릭-a333175bae2a">Generic.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-xcconfig-file-1545b64e480">xcconfig.blog</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-timer-on-gcd-cda20effdc43">GCD & RunLoop.blog</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-unittest-11673329acf6">Unit Test.blog</a><br>
+    </h3>
 <!-- </p> -->
 <hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=iOS_TabBarBase)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CICD_FastLaneBase)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CryptographyMock)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CoreDataMock)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=AdapterPattern)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=InAppPurchaseMock)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=iOS_TabBarBase)](https://github.com/wnsgur9137/iOS_TabBarBase)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CICD_FastLaneBase)](https://github.com/wnsgur9137/CICD_FastLaneBase)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CryptographyMock)](https://github.com/wnsgur9137/CryptographyMock)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CoreDataMock)](https://github.com/wnsgur9137/CoreDataMock)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=AdapterPattern)](https://github.com/wnsgur9137/AdapterPattern)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=InAppPurchaseMock)](https://github.com/wnsgur9137/InAppPurchaseMock)<br>
 
 <br>
 <br>
 
-<h1 align="center"> 💻 Tech Stack 💻 </h1>
+<!-- <h1 align="center"> 💻 Tech Stack 💻 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SwiftUI-0052CC?style=flat-square&logo=swift&logoColor=white"/>
@@ -57,11 +62,11 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 <br>
-<br>
+<br> -->
 
 <h1 align="center"> 
     <img width="28px" height="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> GitHub Stats 
