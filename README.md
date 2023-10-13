@@ -35,6 +35,7 @@
     <a href="https://medium.com/@cbaddaafcbbabb/swift-xcconfig-file-1545b64e480">xcconfig.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-timer-on-gcd-cda20effdc43">GCD & RunLoop.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-unittest-11673329acf6">Unit Test.blog</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-using-gesture-recognizer-to-dismissaction-ac3fb9e81620">Using Gesture recognizer to DismissAction</a><br>
     </h3>
 <!-- </p> -->
 <hr>
