@@ -30,7 +30,7 @@
     <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">AdapterPattern.blog</font></a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString.blog</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-1c4acfa83b65">Using 'private', 'AnyPublisher' in ViewModel(1/2)</a><br>
-    <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-2-2-9a9755376cc2">Using 'private', 'AnyPublisher' in ViewModel(1/2)</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-2-2-9a9755376cc2">Using 'private', 'AnyPublisher' in ViewModel(2/2)</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-coredata-7b2ba1f7b836">CoreData.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-generic-제네릭-a333175bae2a">Generic.blog</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire.blog</a><br>
