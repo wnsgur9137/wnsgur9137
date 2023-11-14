@@ -15,7 +15,9 @@
 <p align="center">
 <!-- <a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a> -->
 <a href="https://medium.com/@cbaddaafcbbabb"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a>
+<!--
 <a href="https://wnsgur9137.notion.site/IOS-a307fbbee522498f875188a3c160c135"><img src="https://img.shields.io/badge/Portfolio-181A1D?style=flat-square&logo=Notion&logoColor=white"/></a>
+-->
 <a href="mailto:wnsgur9137@icloud.com"><img src="https://img.shields.io/badge/Email-3693F3?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
 </p>
