@@ -26,22 +26,30 @@
 <br>
 <br>
 
-<h1 align="center"> 📝 Study 📝 </h1>
+<h1 align="center"> 📝 블로그 📝 </h1>
 <!-- <p align="center"> -->
     <h3>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">AdapterPattern.blog</font></a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString.blog</a><br>
-    <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-1c4acfa83b65">Using 'private', 'AnyPublisher' in ViewModel(1/2)</a><br>
-    <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-2-2-9a9755376cc2">Using 'private', 'AnyPublisher' in ViewModel(2/2)</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-coredata-7b2ba1f7b836">CoreData.blog</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-generic-제네릭-a333175bae2a">Generic.blog</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire.blog</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-xcconfig-file-1545b64e480">xcconfig.blog</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-timer-on-gcd-cda20effdc43">GCD & RunLoop.blog</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-unittest-11673329acf6">Unit Test.blog</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">어댑터 패턴 AdapterPattern</font></a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-hash-value-hashable-240e5b503de6">해쉬값/Hashable</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-1c4acfa83b65">MVVM에서 'private'와 'AnyPublisher' 사용하기 (1/2)</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-2-2-9a9755376cc2">MVVM에서 'private'와 'AnyPublisher' 사용하기 (2/2)</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-coredata-7b2ba1f7b836">CoreData</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-generic-제네릭-a333175bae2a">Generic</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-xcconfig-file-1545b64e480">xcconfig</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-timer-on-gcd-cda20effdc43">GCD & RunLoop</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-unittest-11673329acf6">Unit Test</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-using-gesture-recognizer-to-dismissaction-ac3fb9e81620">Using Gesture recognizer to DismissAction</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-escaping-closure-to-async-await-d18c7fb7b402">Escaping Closure to async await</a><br>
 	<a href="https://medium.com/@junhyeok9137/swift-xcodegen-0c258f380d36">XcodeGen</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-copy-on-write-53ae35411053">Copy-on-Write</a><br>
+    <h3>정리<br>
+    <a href="https://medium.com/@junhyeok9137/swift-time-complexity-46775556927a">Time complexity 정리</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-xcode-info-plist-privacy-188d151fb3a3">Info.plist 접근권한 정리</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-timeinterval-29cf82e88484">코드 실행시간 측정 방법</a><br>
+    <h3>라이브러리<br>
+    <a href="https://medium.com/@junhyeok9137/ios-library-cosmos-2eb5f655a9cf">Cosmos</a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire</a><br>
     </h3>
 <!-- </p> -->
 <hr>
@@ -75,6 +83,7 @@
 <br>
 <br> -->
 
+<!--
 <h1 align="center"> 
     <img width="28px" height="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> GitHub Stats 
     <img width="28px" height="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/> 
@@ -89,6 +98,7 @@
 </td>
 </tr>
 </table> 
+-->
 
 
 
