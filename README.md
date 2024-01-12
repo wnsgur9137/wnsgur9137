@@ -29,11 +29,13 @@
 <h1 align="center"> 📝 블로그 📝 </h1>
 <!-- <p align="center"> -->
     <h3>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">어댑터 패턴 AdapterPattern</font></a><br>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">어댑터 패턴 AdapterPattern</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-builder-pattern-f869b7cfcd71">빌더 패턴 BuilderPattern</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-hash-value-hashable-240e5b503de6">해쉬값/Hashable</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-nsattributedstring-fd5ffa37359f">NSAttributedString</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-1c4acfa83b65">MVVM에서 'private'와 'AnyPublisher' 사용하기 (1/2)</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-use-private-anypublisher-in-viewmodel-2-2-9a9755376cc2">MVVM에서 'private'와 'AnyPublisher' 사용하기 (2/2)</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-uikit%EC%97%90%EC%84%9C-preview-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-d5a7d79653cd">UIKit에서 SwiftUI Preview 사용하기</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-coredata-7b2ba1f7b836">CoreData</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-generic-제네릭-a333175bae2a">Generic</a><br>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-xcconfig-file-1545b64e480">xcconfig</a><br>
