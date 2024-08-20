@@ -4,13 +4,13 @@
 
 <br>
 
-<p>
+<!-- <p>
 	2021 컴퓨터정보학회 동계 학술대회 - 논문 우수상<br>
 	2022 컴퓨터정보학회 하계 학술대회 - 참가<br>
 	2022 제5회 KB국민은행 소프트웨어 경진대회 - 참가<br>
 	2022 제2회 경기도 온라인 메이커 경진대회 - 최우수상(중소기업청장상-용인시산업진흥원)<br>
     2023 컴퓨터정보학회 하계 학술대회 - 논문 우수상<br>
-</p>
+</p> -->
 
 <p align="center">
 <!-- <a href="https://wnsgur9137.github.io"><img src="https://img.shields.io/badge/Tech Vlog-222222?style=flat-square&logo=github&logoColor=white"/></a> -->
@@ -22,13 +22,21 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgur9137&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자+수&edge_flat=false"/></a>
 </p>
 
+<br>
+<br>
+
+<h1 align="center"> 🛠️ 진행중인 프로젝트 </h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=PillInformation)](https://github.com/wnsgur9137/PillInformation)<br>
 
 <br>
 <br>
 
-<h1 align="center"> 📝 블로그 📝 </h1>
+<h1 align="center"> 📝 블로그 </h1>
 <!-- <p align="center"> -->
-    <h3>
+    <a href="https://medium.com/@junhyeok9137/swift-time-complexity-46775556927a">Time complexity 정리</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-xcode-info-plist-privacy-188d151fb3a3">Info.plist 접근권한 정리</a><br>
+    <a href="https://medium.com/@junhyeok9137/swift-timeinterval-29cf82e88484">코드 실행시간 측정 방법</a>
     <a href="https://medium.com/@cbaddaafcbbabb/swift-adapter-pattern-dabb6727013d">어댑터 패턴 AdapterPattern</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-builder-pattern-f869b7cfcd71">빌더 패턴 BuilderPattern</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-hash-value-hashable-240e5b503de6">해쉬값/Hashable</a><br>
@@ -44,23 +52,26 @@
     <a href="https://medium.com/@junhyeok9137/swift-using-gesture-recognizer-to-dismissaction-ac3fb9e81620">Using Gesture recognizer to DismissAction</a><br>
     <a href="https://medium.com/@junhyeok9137/swift-escaping-closure-to-async-await-d18c7fb7b402">Escaping Closure to async await</a><br>
 	<a href="https://medium.com/@junhyeok9137/swift-xcodegen-0c258f380d36">XcodeGen</a><br>
-    <a href="https://medium.com/@junhyeok9137/swift-copy-on-write-53ae35411053">Copy-on-Write</a><br>
-    <h3>정리<br>
-    <a href="https://medium.com/@junhyeok9137/swift-time-complexity-46775556927a">Time complexity 정리</a><br>
-    <a href="https://medium.com/@junhyeok9137/swift-xcode-info-plist-privacy-188d151fb3a3">Info.plist 접근권한 정리</a><br>
-    <a href="https://medium.com/@junhyeok9137/swift-timeinterval-29cf82e88484">코드 실행시간 측정 방법</a><br>
-    <h3>라이브러리<br>
+    <a href="https://medium.com/@junhyeok9137/swift-copy-on-write-53ae35411053">Copy-on-Write</a>
+    <br>
+    <!-- <br>
+    <h3>라이브러리</h3>
     <a href="https://medium.com/@junhyeok9137/ios-library-cosmos-2eb5f655a9cf">Cosmos</a><br>
-    <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire</a><br>
-    </h3>
+    <a href="https://medium.com/@cbaddaafcbbabb/swift-alamofire-84297f5830c">Alamofire</a><br> -->
 <!-- </p> -->
-<hr>
+
+<br>
+<br>
+
+<h1 align="center"> 🔗 참고용 레파지토리 </h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=iOS_TabBarBase)](https://github.com/wnsgur9137/iOS_TabBarBase)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CompositionLayoutMock)](https://github.com/wnsgur9137/CompositionLayoutMock)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=TuistMock)](https://github.com/wnsgur9137/TuistMock)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CICD_FastLaneBase)](https://github.com/wnsgur9137/CICD_FastLaneBase)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CryptographyMock)](https://github.com/wnsgur9137/CryptographyMock)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=CoreDataMock)](https://github.com/wnsgur9137/CoreDataMock)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=AdapterPattern)](https://github.com/wnsgur9137/AdapterPattern)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=DeviceCheckMock)](https://github.com/wnsgur9137/DeviceCheckMock)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=InAppPurchaseMock)](https://github.com/wnsgur9137/InAppPurchaseMock)<br>
 
 <br>
@@ -109,7 +120,7 @@
 <td>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? username=wnsgur9137&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=pie&hide=jupyternotebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur9137&layout=pie&hide=jupyternotebook,css,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </td>
 </tr>
