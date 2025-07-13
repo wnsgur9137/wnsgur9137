@@ -27,6 +27,8 @@
 
 <h1 align="center"> 🛠️ 진행중인 프로젝트 </h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=F1Manager)](https://github.com/wnsgur9137/F1Manager)<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=PillInformation)](https://github.com/wnsgur9137/PillInformation)<br>
 
 <br>
