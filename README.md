@@ -88,6 +88,7 @@ claude mcp add --transport http context7 https://mcp.context7.com/mcp
 [Figma-Context-MCP.git](https://github.com/GLips/Figma-Context-MCP)
 
 ```
+claude mcp add "Framelink Figma MCP" -- npx -y figma-developer-mcp --figma-api-key=YOUR-KEY --stdio
 ```
 
 <br>
