@@ -65,6 +65,34 @@
 <br>
 <br>
 
+<h1 align="center"> 📌 MCP </h1>
+
+<h3>GitHubMCP</h3>
+
+[github-mcp-server.git](https://github.com/github/github-mcp-server)
+
+```
+claude mcp add github -- docker run -i --rm -e GITHUB_PERSONAL_ACCESS_TOKEN ghcr.io/github/github-mcp-server
+```
+
+<h3>Context7</h3>
+
+[context7.git](https://github.com/upstash/context7)
+
+```
+claude mcp add --transport http context7 https://mcp.context7.com/mcp
+```
+
+<h3>FigmaContextMCP</h3>
+
+[Figma-Context-MCP.git](https://github.com/GLips/Figma-Context-MCP)
+
+```
+```
+
+<br>
+<br>
+
 <h1 align="center"> 🔗 참고용 레파지토리 </h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgur9137&repo=iOS_TabBarBase)](https://github.com/wnsgur9137/iOS_TabBarBase)<br>
