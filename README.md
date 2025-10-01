@@ -91,6 +91,14 @@ claude mcp add --transport http context7 https://mcp.context7.com/mcp
 claude mcp add "Framelink Figma MCP" -- npx -y figma-developer-mcp --figma-api-key=YOUR-KEY --stdio
 ```
 
+<h3> </h3>
+
+[sosumi.ai](https://sosumi.ai)
+
+```
+claude mcp add --transport http sosumi https://sosumi.ai/mcp
+```
+
 <br>
 <br>
 
